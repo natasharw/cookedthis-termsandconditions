@@ -1,6 +1,6 @@
 # Terms of Use for Cooked This
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 25th August 2025
 
 Welcome to Cooked This (“the App”). By downloading or using the App, you agree to the following Terms of Use. Please read them carefully. If you do not agree, you should not use the App.
 
