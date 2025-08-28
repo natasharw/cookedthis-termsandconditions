@@ -1,54 +1,66 @@
-# Terms of Use for Cooked This
+# Terms of Use – *I Cooked This*
 
-**Effective Date:** 25th August 2025
+**Last updated: 28th August 2025
 
-Welcome to Cooked This (“the App”). By downloading or using the App, you agree to the following Terms of Use. Please read them carefully. If you do not agree, you should not use the App.
-
----
-
-## 1. Use of the App
-- Cooked This is provided for personal and non-commercial use only.  
-- You agree not to misuse the App or attempt to interfere with its normal operation.  
+Welcome to *I Cooked This*! These Terms of Use (“Terms”) govern your use of the *I Cooked This* mobile application (“App”). By downloading or using the App, you agree to be bound by these Terms and Apple’s Standard End User License Agreement (EULA). If you do not agree, please do not use the App.
 
 ---
 
-## 2. Accounts
-- The App does not require user accounts or registration.  
-- Any purchases or subscriptions are managed through your Apple ID and the App Store.  
+## 1. Subscriptions and Payment
+The App offers optional auto-renewable subscriptions (“Premium Subscriptions”):
+
+- **I Cooked This Premium Monthly** – $1.99 USD per month  
+- **I Cooked This Premium Yearly** – $9.99 USD per year  
+
+Prices are listed in U.S. dollars. The equivalent amount in local currency may vary based on your location and exchange rates, as determined by Apple. All payments are charged to your Apple ID account at confirmation of purchase.
+
+### Auto-Renewal
+- Subscriptions automatically renew at the end of the billing period (monthly or yearly) unless canceled at least 24 hours before the renewal date.  
+- Your account will be charged for renewal within 24 hours prior to the end of the current billing period.  
+
+### Managing Subscriptions
+- You can manage and cancel your subscriptions at any time by going to your **App Store account settings** after purchase.  
+- Deleting the App does not automatically cancel your subscription.  
 
 ---
 
-## 3. In-App Purchases & Subscriptions
-- Cooked This offers in-app purchases and/or subscription features via **Apple’s App Store**.  
-- Purchases are processed securely by Apple. We do not receive or store your payment information.  
-- Subscription terms, including pricing and duration, are displayed clearly within the App at the time of purchase.  
-- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.  
-- You can manage or cancel subscriptions in your Apple App Store account settings.  
+## 2. No User Accounts
+The App does not require user accounts. All features and subscriptions are tied to your Apple ID.
 
 ---
 
-## 4. Intellectual Property
-- All content, design, and features within the App are owned by Cooked This or its licensors.  
-- You may not copy, distribute, or create derivative works based on the App without prior written permission.  
+## 3. Intellectual Property
+All content, features, and functionality of the App are owned by *I Cooked This* and protected by intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
 
 ---
 
-## 5. Limitation of Liability
-- The App is provided “as is” without warranties of any kind.  
-- We are not responsible for any damages, losses, or issues that may arise from your use of the App, to the maximum extent permitted by law.  
+## 4. Acceptable Use
+You agree not to:  
+- Copy, modify, or distribute any part of the App.  
+- Attempt to reverse engineer or otherwise tamper with the App.  
+- Use the App for unlawful purposes.  
 
 ---
 
-## 6. Termination
-We may suspend or discontinue the App at any time without notice. Your access to purchased features or subscriptions will continue as long as they are supported by Apple’s App Store.  
+## 5. Disclaimer of Warranties
+The App is provided “as is” and “as available” without warranties of any kind. We do not guarantee uninterrupted or error-free operation.
+
+---
+
+## 6. Limitation of Liability
+To the maximum extent permitted by law, *I Cooked This* and its developers are not liable for any indirect, incidental, or consequential damages arising from your use of the App.
 
 ---
 
 ## 7. Changes to Terms
-We may update these Terms of Use from time to time. Changes will be effective upon posting the revised version within the App or on our website.  
+We may update these Terms from time to time. Continued use of the App after changes means you accept the updated Terms.
 
 ---
 
-## 8. Contact Us
-If you have any questions about these Terms of Use, please contact us at:  
-**Email:** flourishtechcoaching@gmail.com
+## 8. Governing Law
+These Terms are governed by the laws of United Kingdom, without regard to its conflict of law principles.
+
+---
+
+## 9. Contact Us
+If you have questions about these Terms, please contact us at: flourishtechcoaching@gmail.com
