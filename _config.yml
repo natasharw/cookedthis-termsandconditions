@@ -1,0 +1,3 @@
+# _config.yml
+# Disable the default GitHub Pages theme and repo header
+theme: null
