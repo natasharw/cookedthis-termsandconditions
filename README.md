@@ -1,6 +1,6 @@
 # Terms of Use – *I Cooked This*
 
-**Last updated: 28th August 2025
+**Last updated: 28th August 2025**
 
 Welcome to *I Cooked This*! These Terms of Use (“Terms”) govern your use of the *I Cooked This* mobile application (“App”). By downloading or using the App, you agree to be bound by these Terms and Apple’s Standard End User License Agreement (EULA). If you do not agree, please do not use the App.
 
